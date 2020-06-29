@@ -2,6 +2,7 @@
 //! Cluster formation and distributed actor instantiation
 use crate::children_ref::ChildrenRef;
 use crate::Bastion;
+use crate::bastion;
 use crate::context::*;
 use crate::message::{Message};
 
